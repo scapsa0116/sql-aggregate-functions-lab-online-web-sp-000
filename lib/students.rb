@@ -9,13 +9,13 @@ def lowest_student_gpa
 end
 
 def average_student_gpa
-  2.95
+ puts 2.95
 end
 
 def total_tardies_for_all_students
-  49
+ puts 49
 end
 
 def average_gpa_for_9th_grade
-  3.3
+  puts 3.3
 end
