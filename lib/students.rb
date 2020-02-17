@@ -5,7 +5,7 @@ puts 4.0
 end
 
 def lowest_student_gpa
-  1.9
+ puts  1.9
 end
 
 def average_student_gpa
