@@ -1,7 +1,7 @@
 ## Code your solution below. Note that your SQL queries should be in quotation marks. 
 
 def highest_student_gpa
-puts 4.0
+SELECT MAX (gpa) FROM students;
 end
 
 def lowest_student_gpa
